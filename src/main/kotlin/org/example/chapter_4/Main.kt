@@ -5,7 +5,6 @@ private var PLAYER_LEVEL = 5
 
 fun main() {
     println("The hero announces her presence to the world.")
-
     println(HERO_NAME)
     println(PLAYER_LEVEL)
 
