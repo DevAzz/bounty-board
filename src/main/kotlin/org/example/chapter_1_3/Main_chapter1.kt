@@ -1,6 +1,6 @@
-package org.example
+package org.example.chapter_1_3
 
-const val HERO_NAME = "Madrigal"
+private const val HERO_NAME = "Madrigal"
 
 fun main() {
     println("The hero announces her presence to the world.")
